@@ -3,9 +3,10 @@ package com.coolweather.app.db;
 import java.util.ArrayList;
 import java.util.List;
 
-import model.City;
-import model.County;
-import model.Province;
+import com.coolweather.app.moder.City;
+import com.coolweather.app.moder.County;
+import com.coolweather.app.moder.Province;
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
